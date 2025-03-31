@@ -1,1 +1,1 @@
-# gdmun25
+# GDMUN-25
